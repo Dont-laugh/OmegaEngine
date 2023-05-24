@@ -1,0 +1,9 @@
+.vs
+.vscode
+.idea
+
+OmegaEditor/bin
+OmegaEditor/obj
+
+Engine/x64
+x64/
